@@ -1,0 +1,25 @@
+{
+	"images": 
+	[
+		{
+			"type": "humiditrak",
+			"version": "3.0.2",
+			"url": ""
+		},
+		{
+			"type": "tkl",
+			"version": "4.0.8",
+			"url": ""
+		},
+		{
+			"type": "taylor",
+			"version": "3.0.3",
+			"url": ""
+		},
+		{
+			"type": "blustream",
+			"version": "3.0.2",
+			"url": ""
+		},
+	]
+}
